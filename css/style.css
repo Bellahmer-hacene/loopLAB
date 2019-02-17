@@ -27,7 +27,7 @@ body{
 #home-section .card-form{
     opacity: 0.8;
 }
-#home-section .fas{
+#home-section .fas, #create-section .fas {
     color: #008ed6;
     background: #fff;
     padding: 5px;
